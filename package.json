@@ -1,0 +1,21 @@
+{
+  "name": "react-native-akamaibmp",
+  "version": "3.3.2",
+  "description": "Akamai BMP SDK for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warn: no test specified. Skipping.\" && exit 0"
+  },
+  "keywords": [
+    "react-native",
+	"react-component",
+	"akamaibmp",
+	"ios",
+	"android"
+  ],
+  "author": "Akamai Technologies",
+  "license": "ISC",
+  "peerDependencies": {
+    "react-native": ">=0.41.2"
+  }
+}
